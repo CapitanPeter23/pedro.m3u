@@ -1,390 +1,227 @@
-#EXTINF:0 tvg-id="LA1.es" group-title="SPANISH",LA 1 HD
-http://M40cPhJSqrGRu7ow8OzmjH.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=355&t=live&f=ts
-#EXTINF:0 tvg-id="LA1.es" group-title="SPANISH",LA 1 FULL HD
-http://nZvENhecB8GUz1fXKP34sL.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3797&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LA 2 HD
-http://84tBub6F2hDkIGYEAc7pR5.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=421&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LA 2 FULL HD
-http://D6ieVptMrB28xXlRITa9Lh.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3846&t=live&f=ts
-#EXTINF:0 tvg-id="Antena3.es" group-title="SPANISH",ANTENA 3 HD
-http://EWzR0rF1DAlJ2SVUK8wpYa.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=348&t=live&f=ts
-#EXTINF:0 tvg-id="Antena3.es" group-title="SPANISH",ANTENA 3 FULL HD
-http://AmBsZupHPwW9yDVhd4K0iC.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3790&t=live&f=ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="SPANISH",CUATRO HD
-http://2fbiV1YeRnwWIpMELoCgO4.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=351&t=live&f=ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="SPANISH",CUATRO FULL HD
-http://DRvu2LkcW8PCw64VrMlo7G.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3793&t=live&f=ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="SPANISH",TELECINCO HD
-http://63T5vAzMwS8OyEWPaBFZLU.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=374&t=live&f=ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="SPANISH",TELECINCO FULL HD
-http://LRO3EVdp7cI0FvYWPjHMCm.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3814&t=live&f=ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="SPANISH",LA SEXTA HD
-http://A8QF7yRgfKmvIbWEntjDB6.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=356&t=live&f=ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="SPANISH",LA SEXTA FULL HD
-http://3FLXJtRjIwlexGWh4CnpUs.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3798&t=live&f=ts
-#EXTINF:0 tvg-id="Nova.es" group-title="SPANISH",NOVA
-http://RCXD18YelO4UW3NjpEbGTH.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=453&t=live&f=ts
-#EXTINF:0 tvg-id="Nova.es" group-title="SPANISH",NOVA FULL HD
-http://M1cCVwlIGnfARkhOq4YNsj.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3854&t=live&f=ts
-#EXTINF:0 tvg-id="Neox.es" group-title="SPANISH",NEOX
-http://e4YB1aEqMi8PU26y5JsIOT.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=450&t=live&f=ts
-#EXTINF:0 tvg-id="Neox.es" group-title="SPANISH",NEOX FULL HD
-http://821COjcM3qUAWmveRE7S5o.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3851&t=live&f=ts
-#EXTINF:0 tvg-id="Mega.es" group-title="SPANISH",mega
-http://tECI1eB69xT2GnWSgDqdrN.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=25854&t=live&f=ts
-http://XMi23gBa954Kwrb7WGOIjh.green.onerunthisw#EXTINF:0 tvg-id="FDF.es" group-title="SPANISH",FDF
-http://WpxlcvVUgLB4zXaGyS8fC2.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=415&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",FDF FULL HD
-http://ghC9Q4e56tfoIs3pArGBL1.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3841&t=live&f=ts
-#EXTINF:0 tvg-id="Divinity.es" group-title="SPANISH",DIVINITY
-http://v6NRk8BfMt9qVWcT24D0PA.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=412&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DIVINITY FULL HD
-http://mk7MwGTO6rbst8pRDCa5Xf.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3839&t=live&f=ts
-#EXTINF:0 tvg-id="Energy.es" group-title="SPANISH",ENERGY
-http://8o3OK9ILcSvY0BzHDUTiPE.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=413&t=live&f=ts
-#EXTINF:0 tvg-id="Decasa.es" group-title="SPANISH",CANAL DECASA
-http://eyN3nWYdH0mKo9tk5Ex2TX.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=398&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",CANAL DECASA FULL HD
-http://4OqeIU1PgVfKocutXHplri.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3828&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",### CINE ###
-http://SBgQy29uae1Xs5MCjNpxz7.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27148&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ ESTRENOS HD
-http://X0wORDpWjbCu3BcmgaIfKr.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=364&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ ESTRENOS FULL HD
-http://rvQ7UwcHDaNMeKBngVI1oW.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3805&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ ESTRENOS 2 HD
-http://KEmNQWIvRnUx7irYj8fuoD.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26663&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ ACCION HD
-http://EY9iOox3d45ZB1sgVJRIzF.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=358&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ ACCION FULL HD
-http://2hMABGlC0Hixu7dfvr3qcb.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3799&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ COMEDIA HD
-http://eWg0lvUyuA9kOBs51QpFzN.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=363&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ COMEDIA FULL HD
-http://CTLW79pVMg1mRe4BbOysIU.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3804&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DRAMA HD
-http://IGnavJtEgkrCDTOy8VdmcS.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=360&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DRAMA FULL HD
-http://3ECH5mZl9614pzVrI0Svcn.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3801&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ Cine Español
-http://5HuRgPzmoqiO1l78pT0acJ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=426&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ Cine Español FULL HD
-http://iHsFconuAdyVvKqCDJTO5x.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3847&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ Fest
-http://Y7kGKSy92auhimf6IQWUsZ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26664&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ CLÁSICOS HD
-http://gWiMBpo13ePCQkY4aUyDNx.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26665&t=live&f=ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="SPANISH",HOLLYWOOD HD
-http://uCzHrjVPR7t4LdaESfDJWh.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=354&t=live&f=ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="SPANISH",HOLLYWOOD FULL HD
-http://TdC8geI5AkavWqymRQ0Mtp.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3796&t=live&f=ts
-#EXTINF:0 tvg-id="TCM.es" group-title="SPANISH",TCM HD
-http://ZgLwTocYaMC9OQ08df7IzX.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=373&t=live&f=ts
-#EXTINF:0 tvg-id="TCM.es" group-title="SPANISH",TCM FULL HD
-http://e5OTsSwXFpB6nHacGj2Wg0.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3813&t=live&f=ts
-#EXTINF:0 tvg-id="TNT.es" group-title="SPANISH",TNT HD
-http://nxfT8HUsyN1j4kuEwqRLOg.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=375&t=live&f=ts
-#EXTINF:0 tvg-id="TNT.es" group-title="SPANISH",TNT FULL HD
-http://BCP0fwQmR6ODoW4AXGN3de.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3815&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",### SERIES ###
-http://NJtjLCO3sluDErAphwZ9g7.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27149&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ #0 HD
-http://huF4XmOdnKJ8oA9WRajN1v.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=378&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ #0 FULL HD
-http://mnFJMzkLWvP7phEdRBoHxI.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3818&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ SERIES HD
-http://PO4fpXGSm6nWrgUlkxeqFA.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=362&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M. SERIES FULL HD
-http://yJ3ibdXPYM1nScaolkj0r6.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3803&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ SERIES 2 HD
-http://txjXwaBhOT2pPKR7dsD15J.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26662&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ SERIES 2 FULL HD
-http://xTeOJ2zAVEuQDXBpt1RW6G.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3809&t=live&f=ts
-#EXTINF:0 tvg-id="Fox.es" group-title="SPANISH",FOX HD
-http://0BEK3wAOdbcrLm8Cg1TNG9.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=353&t=live&f=ts
-#EXTINF:0 tvg-id="Fox.es" group-title="SPANISH",FOX FULL HD
-http://TViocQytzh71lYrvFOkBpR.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3795&t=live&f=ts
-#EXTINF:0 tvg-id="AMC.es" group-title="SPANISH",AMC HD
-http://btxJpUarg14hDOeifonZ2B.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=347&t=live&f=ts
-#EXTINF:0 tvg-id="AMC.es" group-title="SPANISH",AMC FULL HD
-http://MhLlVXZTw7aupYDR2j346z.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3789&t=live&f=ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="SPANISH",AXN HD
-http://Rr6xQfznlNJ5wCyWUXKI7s.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=349&t=live&f=ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="SPANISH",AXN FULL HD
-http://Twbj8LpPnd1yeQEBmfs24J.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3791&t=live&f=ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPANISH",AXN WHITE HD
-http://zGDvS3qH7mPwNBEce0ZT1J.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=382&t=live&f=ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPANISH",AXN WHITE FULL HD
-http://54Njf9ghx7tBXpcWzUoYD0.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3821&t=live&f=ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="SPANISH",SYFY HD
-http://d1OjVt7lxwkDe0sRrbviHT.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=372&t=live&f=ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="SPANISH",SYFY FULL HD
-http://IpO6QjZXAVnGtqs0PYyR8T.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3812&t=live&f=ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="SPANISH",CALLE 13 HD
-http://z61N8VwjHWgRLECdDSvpXU.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=350&t=live&f=ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="SPANISH",CALLE 13 FULL HD
-http://LSyp2IWUsflmDA3RJOq7Mx.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3792&t=live&f=ts
-#EXTINF:0 tvg-id="Paramount.es" group-title="SPANISH",PARAMOUNT
-http://IRPQd5mAnLT8xzXCE67uyi.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=454&t=live&f=ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="SPANISH",PARAMOUNT FULL HD
-http://EiFqfApYRur9zwG08nXbZy.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3855&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",AMC CRIME FULL HD
-http://kuRzcGWns9V2EZULPS3DOY.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3835&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",AMC BREAK FULL HD
-http://hVFyESKR80YmNxPpoCbTX6.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3825&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",### Entretenimiento ###
-http://kNwd9m3GvbSsZXyLBRJr2g.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27150&t=live&f=ts
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="SPANISH",DISNEY CH HD
-http://RXv6Ke2cxnirBqGMdO9t1s.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=434&t=live&f=ts
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="SPANISH",DISNEY CH FULL HD
-http://EyxN0K2Id5fcLOzkCDjsaQ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3837&t=live&f=ts
-#EXTINF:0 tvg-id="DisneyJr.es" group-title="SPANISH",DISNEY JR
-http://h1xGfbD9ALFEr4jm7k8KMi.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=410&t=live&f=ts
-#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="SPANISH",DISNEY JR FULL HD
-http://iaTbmuYnqXJ2xeVgyWKdBD.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3838&t=live&f=ts
-#EXTINF:0 tvg-id="ClanTVE.es" group-title="SPANISH",CLAN  TVE
-http://dpBWn5P1I4RQcHfsUiyVLv.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=403&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",CLAN TVE FULL HD
-http://3PV9UfWGZz7ovnQROIJcgs.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3832&t=live&f=ts
-#EXTINF:0 tvg-id="Boing.es" group-title="SPANISH",BOING
-http://Ry7mGTUAelZFLhNa2cf8YX.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=396&t=live&f=ts
-#EXTINF:0 tvg-id="Boing.fr" group-title="SPANISH",BOING FULL HD
-http://8wGy5q7o2LbMhdATlej4OZ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3826&t=live&f=ts
-#EXTINF:0 tvg-id="GOL.es" group-title="SPANISH",GOL
-http://uUvwqTz7Ax0coM6t2f4HpJ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=418&t=live&f=ts
-#EXTINF:0 tvg-id="GOL.es" group-title="SPANISH",GOL FULL HD
-http://kNqSoxG8DvR7IwpaJEc3lm.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3843&t=live&f=ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPANISH",TELEDEPORTE HD
-http://Z5iIs6QDwbTFhEyAv0o7JP.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=457&t=live&f=ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPANISH",TELEDEPORTE FULL HD
-http://Ts7E1J0Ud3ZR4jFGtQfhai.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3857&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",### Deportes ###
-http://GpBPHeUAIkXxhstZdWiYR0.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27151&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLigaHD
-http://AblpFGMQKNrUY6udWaX4Ew.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27160&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLigaHD+
-http://6cgtOK9iGYhqE8LUJ1xsVN.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27173&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LALIGA SD
-http://N6JtfbDheCEvm017Hs5aox.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27170&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLiga
-http://wQJZcj9tGH8g7Yq2f15aTO.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27174&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLigaFHD
-http://PqIJuNaQhRLEf5xZT8mGKW.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27175&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLigaHD FULL HD
-http://SBGXadiVQuPr9klvqho0pD.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27162&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLiga 2K
-http://ADTa1bo5MR3COlIYErU7Kx.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27169&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLiga 4K
-http://cdeCABqHxONVipL42MtGfo.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27168&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLiga2 HD
-http://VWScL8UBbjYKuitNC9Zg6e.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27161&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN LaLiga2 HD FULL HD
-http://DHPVtMpqZ4BKru6kxCzeo7.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27163&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga HD
-http://7bzvf4LOCpTZgVAJSexR5G.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26046&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga HD+
-http://rnZXizyELeB6Kf7Ot8dbFS.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26248&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LaLiga HD
-http://xrqO6jNQzAdWe7Im5FC38k.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26246&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LALIGATV BAR HD
-http://fnIJUGq21N7cd6VWpKoFAl.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=357&t=live&f=ts
-#EXTINF:0 tvg-id="BeINSports.es" group-title="SPANISH",LIGA TV BAR FULL HD
-http://iHZDpoajqNUIz08fdCl4vx.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26321&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LALIGA TV HD+
-http://vh53VzA0s79FLeaBjo2QSn.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26065&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga FHD
-http://s4CSlgNBnfGch0vAb3eJ9X.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26042&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga +
-http://3kEvjmPRcDKOnoBTL5plXq.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26247&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga
-http://yfAzb5WMrnDqloV8FCXcUH.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=435&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",Bein Laliga/ beIN Sport
-http://KcLYgSIMet7pBuUCE2kdPN.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=386&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 2K
-http://gu7WaYleOCsvjMTSfUH6bX.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26141&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LALIGATV BAR HD
-http://AIXcBNb9YGejCHrFhLkKPx.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26269&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga FULL HD
-http://hNs19BiDySMd2nQTJ0x7X8.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3849&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LigaSmartBankHD
-http://1E6YFt0s2QLrCkgeB43bdH.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27164&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LigaSmartBankHD FULL HD
-http://tVs4WybCMmUwqj0P3iOJS5.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27166&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LigaSmartBank1HD
-http://iGXxZntmEFCcWg4dO9wj06.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27165&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",LigaSmartBank1HD FULL HD
-http://djZIT5uOmGy8vc7sx6nMCf.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=27167&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 1 HD
-http://A0JlUohY2LEVMx3WDFeZfq.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26047&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 1 FULL HD
-http://7lYR9jIw3EioGcxDQsPpd6.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24929&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 1 FHD
-http://Kl9taibV5xNgyFdrBDnkEf.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26043&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 2 HD
-http://NGTm4kAnQYztURZfgwMO5j.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26048&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 2 FHD
-http://YMbkD0gjvlT7x4O92BiKqh.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26045&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 3 HD
-http://g56zFu1dKt4owXxG2lIJhs.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24927&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 3 FHD
-http://fxYGWe9MCFLkKgJEcV7Rih.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26044&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 2 (SOLO EVENTOS)
-http://pE1FfsmIw9QLXDA8TakMd5.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=388&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 4 (SOLO EVENTOS)
-http://F8k24MT6gHAi7DLEzjr1B3.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=390&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 5  (SOLO EVENTOS)
-http://L0pASjrvYZI4aCdGzBif9E.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24926&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 6 (SOLO EVENTOS)
-http://x9knHghvGB1bWwYTc3eUsX.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24925&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 7 (SOLO EVENTOS)
-http://RfNJdK654txk3vLWZeG2bh.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=393&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 8 (SOLO EVENTOS)
-http://rliqoU51Vea9ZwB0J23vNx.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=394&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 9 (SOLO EVENTOS)
-http://7ruCvfL6s4wxHmj58yghAJ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24924&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LaLiga 10 (SOLO EVENTOS)
-http://s1mPyiJ2a5UevcXnEDNjtr.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24928&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES HD
-http://jKpe7dnyX5gIaoUH8BtOCV.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=445&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES HD+
-http://CaQu4PjlWmhXrNfBpVbAGL.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26315&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ Lcampeones 4K
-http://W4gQOrNkGcRVy9DBFAjTwJ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26140&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES FULL HD
-http://HyOiVRcUvTsEnupIKx14BX.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26078&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 1080P
-http://xskLdb92zDpVRiv8EZqflO.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26316&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES SD
-http://cQ4kWKbRN7lBSwIPYZE0m5.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26317&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES
-http://Sr6Ks3qMF8EXxWgef1IvbA.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26318&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 1 HD (SOLO EVENTOS)
-http://Wd5Usag9lGnCKTBDVI7FHO.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=438&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 1 FULL HD (SOLO EVENTOS)
-http://58P3ti7fOBT4F0L9yGKEM1.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26079&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 1 4K (SOLO EVENTOS)
-http://jD1JkHR3C6W2EelK8y5iNT.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26175&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 1 SD (SOLO EVENTOS)
-http://mPQu9M5wSyX7LlOeVDGsI4.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26319&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 2 HD (SOLO EVENTOS)
-http://nNKE7fqYTboyV2zJLrGvZu.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=439&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)
-http://TirPC7pxfXqSbNkuIm4sZK.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26080&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 2 SD (SOLO EVENTOS)
-http://gFqxWLeSicvyaprb6td14G.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26320&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 3  (SOLO EVENTOS)
-http://0674bWpIMACiZj398KVyQG.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=440&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)
-http://R3nGrj5leMY2awifNozh7B.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26081&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 4 (SOLO EVENTOS)
-http://5fD3Al9eyZBxIRGh1jNQvr.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=441&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)
-http://3HmgMBlSsAVrcLa4pqbzTO.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26082&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 5 (SOLO EVENTOS)
-http://sMRQn8vGJ51lKAP0rCtO6E.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=442&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 5 FULL HD (SOLO EVENTOS)
-http://cSXjxdDg54wKG9NquMz2eQ.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26083&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 6 (SOLO EVENTOS)
-http://rM48PRXgFwpOiVLScsH6NC.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=443&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 6 FULL HD (SOLO EVENTOS)
-http://2jskWmMxfz86RtNS4iUO3a.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26084&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 7 (SOLO EVENTOS)
-http://tZCp7cILayNx1sXwuGeUi3.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=444&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 7 FULL HD (SOLO EVENTOS)
-http://6QGTwjpJql8rDWcNLxveUY.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26085&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 8 FULL HD  (SOLO EVENTOS)
-http://DuTfJAliLSN7ocKsG34VYx.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26086&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 9 FULL HD  (SOLO EVENTOS)
-http://qiZWuHCrtDaA50hkXeR7M9.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26711&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 10 FULL HD  (SOLO EVENTOS)
-http://kYR0H6r5ChyavJo9s2pbNU.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26712&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 11 FULL HD  (SOLO EVENTOS)
-http://dG3vie51IuSznjhxoYr7p9.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26713&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)
-http://hw4ZPblTBLFdpakeRIUS9D.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26714&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ #VAMOS HD
-http://uTCKINsQ5i29gYDXmEbqwU.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=379&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ #VAMOS FULL HD
-http://HE8NLgKmnYq7TxP2y3Url1.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3819&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ #VAMOS BAR1
-http://Zzh6A7vjMmGJlEfPadBcgy.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26268&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN F1 HD
-http://C7qFrPYaGSbzgLf356esMp.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26626&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN F1 FULL HD
-http://UMO1TDpFvX6Yrqli5ejtk2.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26627&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 1 ESP
-http://zAeSbVOCqc3fIY04otjygh.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24923&t=live&f=ts
-#EXTINF:0 tvg-id="DAZN209.it" group-title="SPANISH",DAZN 1 FULL HD
-http://delvuAn5HyjFiNWwUb6PQz.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26623&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 1 4K
-http://9QzRSOXULPtFcmxe7pK1nM.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26621&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 2 ESP
-http://QMvPilmDNqH1JRFAr8GT7t.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=24922&t=live&f=ts
-#EXTINF:0 tvg-id="DAZN212.it" group-title="SPANISH",DAZN 2 FULL HD
-http://d5LRT9NIveO1DcwKAuQimq.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26624&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 2 4K
-http://8N4G26ZcedJsWkx9ERIn5i.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26622&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 3 HD
-http://DRLj9SxEoMN0ynhgHbmikf.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26628&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 3 FULL HD
-http://gfdVAT5BRExbHtS9F0j7lL.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26630&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 3 ESP
-http://S4ucQpxNnGaTtzfK28U9j6.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26163&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 4 HD
-http://2S6gA5K0Uv8QRNIjsZ3WFo.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26629&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 4 FULL HD
-http://SQEGgFN58Cqk1MzHTLf7pA.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26631&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 4 ESP
-http://XfRQxNLJh9Ajln6MUSBsy0.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26164&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 5 ESP
-http://ot9ubBDHIqiS57FjECX10r.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26171&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-http://UHjCnEIeudD3YryslTJkmS.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26300&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-http://sKMpPwkHTWiqjxZGnRy67I.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26301&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-http://EPRj8a3FizLU25k9ypsnbW.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=26302&t=live&f=ts
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPANISH",EUROSPORT 1 HD
-http://eomBwjQf5LignkuTbXRY41.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=352&t=live&f=ts
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPANISH",EUROSPORT 1 FULL HD
-http://MFZs6yOxJGVpIT0o9vbQLU.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3794&t=live&f=ts
-#EXTINF:0 tvg-id="Eurosport2.es" group-title="SPANISH",EUROSPORT 2
-http://vX9NIC1ZfzVLxpOjJuhEbl.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=414&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTESHD
-http://DLlo06anzScm37f8kGHRbe.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=359&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES FULL HD
-http://jSgVE62xMBAYW3hU7Nl5kt.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3800&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES1HD (SOLO EVENTOS)
-http://0m2MPuzgQfk8D1K9UpxHqX.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=427&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES2 (SOLO EVENTOS)
-http://5x4VyjlumU9XWR0TqMNP6C.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=428&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES3 (SOLO EVENTOS)
-http://rJE7s59bYOBNf3eHhVkvqC.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=429&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES4 (SOLO EVENTOS)
-http://vNhRJEYq3LtC6z5njMoKTU.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=430&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES5 (SOLO EVENTOS)
-http://S2BcZQ9r0fYXlsbtqTpIOK.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=431&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES6 (SOLO EVENTOS)
-http://qacfoHV0z8NMCT9FAiYKSl.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=432&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ DEPORTES7 (SOLO EVENTOS)
-http://ZWe1RpY8VcavDwJAzsihMG.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=433&t=live&f=ts
-#EXTINF:0 tvg-id="Multideporte1.es" group-title="SPANISH",MULTIDEPORTE
-http://8nmigK2ec7yWMNjr0wlPIY.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=449&t=live&f=ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPANISH",TELEDEPORTE HD
-http://Z5iIs6QDwbTFhEyAv0o7JP.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=457&t=live&f=ts
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPANISH",TELEDEPORTE FULL HD
-http://Ts7E1J0Ud3ZR4jFGtQfhai.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3857&t=live&f=ts
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="SPANISH",BARCA TV
-http://7f0e6Acz3jOayuDCbQ8HlV.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=384&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",BARCA TV FULL HD
-http://GtkKRIWzjYabOV9TvpgHoF.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3823&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",R. MADRID TV HD
-http://dL6IhW5t7V1gH9Gk0sAelM.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=455&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ FORMULA1 HD
-http://3cuN2XnGVS9YaK0zxHyJCw.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=365&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ FORMULA1 FULL HD
-http://aogfmMTUl8Jz4BnIQELwyj.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3806&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ GOLF HD
-http://wKMdWl3aet1D2i9bVTGS5j.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=361&t=live&f=ts
-#EXTINF:0 tvg-id="ext" group-title="SPANISH",M+ GOLF FULL HD
-http://7YQ4CpUDa39ARHbhtgPXZB.green.onerunthisway.me/live/sun.php?z=997&u=sNFWwZ5Eox&s=7323748682&id=3802&t=live&f=ts
+#EXTM3U
+#EXTINF:0 tvg-id="LA1.es" group-title="SPAIN",ES: LA 1 HD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5622.ts
+#EXTINF:0 tvg-id="LA2.es" group-title="SPAIN",ES: LA 2 HD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5623.ts
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN",ES: ANTENA 3 FHD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5555.ts
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN",ES: CUATRO
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5588.ts
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN",ES: TELECINCO HD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5734.ts
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="SPAIN",ES: LA SEXTA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5625.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: À PUNT HD
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: A3 SERIES HD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5552.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: TELE DEPORTE
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5735.ts
+#EXTINF:0 tvg-id="Neox.es" group-title="SPAIN",ES: NEOX
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5718.ts
+#EXTINF:0 tvg-id="Mega.es" group-title="SPAIN",ES: MEGA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5688.ts
+#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN",ES: ENERGY
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5603.ts
+#EXTINF:0 tvg-id="FDF.es" group-title="SPAIN",ES: FDF
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5611.ts
+#EXTINF:0 tvg-id="Divinity.es" group-title="SPAIN",ES: DIVINITY
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5599.ts
+#EXTINF:0 tvg-id="Nova.es" group-title="SPAIN",ES: NOVA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5723.ts
+#EXTINF:0 tvg-id="DKISS.es" group-title="SPAIN",ES: DKISS
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5600.ts
+
+
+
+
+*SERIES*
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ #0
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5546.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ ACCION
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5632.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ ESTRENOS
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5645.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ ESTRENOS 2
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5646.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ CINE ESPAÑOL
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5633.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ COMEDIA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5636.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ DCINE
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5637.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ DRAMA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5644.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ SERIES
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5675.ts
+#EXTINF:0 tvg-id="Fox.es" group-title="SPAIN",ES: FOX
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5612.ts
+#EXTINF:0 tvg-id="AXNhd.es" group-title="SPAIN",ES: AXN
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5557.ts
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPAIN",ES: AXN WHITE
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5558.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="SPAIN",ES: AMC FHD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5553.ts
+#EXTINF:0 tvg-id="Hollywood.es" group-title="SPAIN",ES: HOLLYWOOD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5619.ts
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="SPAIN",ES: COMEDY CENTRAL
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5584.ts
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="SPAIN",ES: COSMO
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5585.ts
+#EXTINF:0 tvg-id="Calle13.es" group-title="SPAIN",ES: CALLE 13 FHD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5567.ts
+#EXTINF:0 tvg-id="Scifi.es" group-title="SPAIN",ES: SYFY
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5732.ts
+#EXTINF:0 tvg-id="Paramount.es" group-title="SPAIN",ES: PARAMOUNT CHANNEL
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5727.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: CRIMEN INVESTIGATION
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5586.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: AMC Break
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25926.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: AMC Crime
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25927.ts
+
+*INFANTIL*
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: TVE CLAN
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5744.ts
+#EXTINF:0 tvg-id="Boing.es" group-title="SPAIN",ES: BOING
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5565.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: DREAMWORKS
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5602.ts
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5718.ts
+#EXTINF:0 tvg-id="NickJunior.es" group-title="SPAIN",ES: NICK JR
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5720.ts
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="SPAIN",ES: NICKELODEON
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5721.ts
+
+*DEPORTES*
+#EXTINF:0 tvg-id="GOL.es" group-title="SPAIN",ES: GOL TV
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5617.ts
+#EXTINF:0 tvg-id="BeINSports.es" group-title="SPAIN SPORT",ES: BEIN SPORTS ESPANA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/24040.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: DAZN LALIGA 1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25125.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: DAZN LALIGA 2
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25127.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: Laliga SmartBankTV-M1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25128.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: DAZN 1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5589.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: DAZN 2
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5590.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: DAZN 3
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5591.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: DAZN 4
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5592.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: DAZN F1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5593.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: ESPN
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5605.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGATV BAR
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5661.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5758.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 1 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5650.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 2 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5651.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 3 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5652.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 4 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5653.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 5 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5654.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 6 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5655.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 7 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5656.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 8 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5657.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 9 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5658.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGA 10 (MATCH TIME)
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5659.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5671.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5662.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 2
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5663.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 3
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5664.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 4
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5665.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 5
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5666.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 6
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5667.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 7
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5668.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 8
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5669.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 9
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5670.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 10
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5685.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 11
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5686.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LIGA DE CAMPEONES 12
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5687.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ #VAMOS
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5630.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPAIN SPORT",ES: EUROSPORT 1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5607.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="SPAIN SPORT",ES: EUROSPORT 2
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5608.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5643.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES 1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5638.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES 2
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5639.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES 3
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5640.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES 4
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5641.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES 5
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5681.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES 6
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5682.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ DEPORTES 7
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5683.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LALIGATV BAR
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5661.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ F1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5647.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ GOLF
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5649.ts
+#EXTINF:0 tvg-id="FutbolReplay.es" group-title="SPAIN SPORT",ES: FUTBOL REPLAY
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5615.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: SUPERSPORT LA LIGA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5752.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LaLiga Smartbank TV
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25953.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES: M+ LaLiga Smartbank TV 1
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25954.ts
+
+*VARIADOS*
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="SPAIN",ES: NAT GEO
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5714.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="SPAIN",ES: NAT GEO WILD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5715.ts
+#EXTINF:0 tvg-id="DMAX.es" group-title="SPAIN",ES: DMAX
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5601.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: CAZAYPESCA FHD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5578.ts
+#EXTINF:0 tvg-id="BEMAD.es" group-title="SPAIN",ES: BE MAD
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5561.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: BOM CINE
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5566.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: M+ Cracks
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/25940.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES: CANAL DE CASA
+http://blastoff.sbs:8080/live/9771663156082964/7791663156082964/5571.ts
